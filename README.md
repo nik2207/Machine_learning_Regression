@@ -1,10 +1,4 @@
 # Machine_learning_Regression
-Here is a README file content for your **Machine Learning Regression** project:
-
----
-
-# Machine Learning Regression
-
 This repository contains various regression models implemented in Python using Jupyter Notebooks. The goal is to analyze and predict power plant energy output based on different regression techniques.
 
 ## 📂 Project Structure
@@ -23,6 +17,22 @@ This repository contains various regression models implemented in Python using J
 3. **Decision Tree Regression**
 4. **Random Forest Regression**
 5. **Support Vector Regression (SVR)**
+
+## 📌 Mini Project Overview: Regression Analysis  
+
+The **Mini_Project_Regression.ipynb** notebook focuses on implementing and comparing different regression models to analyze and predict a target variable from a given dataset. This mini-project includes:  
+
+- **Data Preprocessing:** Handling missing values, feature selection, and data scaling.  
+- **Exploratory Data Analysis (EDA):** Visualizing trends, correlations, and distributions.  
+- **Regression Models Implemented:**  
+  - Linear Regression  
+  - Polynomial Regression  
+  - Decision Tree Regression  
+  - Random Forest Regression  
+  - Support Vector Regression (SVR)  
+- **Model Evaluation:** Comparing performance using metrics like R² score, MAE, MSE, and RMSE.  
+
+This project helps in understanding how different regression models perform on a dataset and which model gives the best predictive accuracy. 🚀
 
 ## 📌 Dependencies
 To run the Jupyter Notebooks, install the required Python libraries using:
